@@ -69,7 +69,7 @@
 }
 
 .container-img {
-    background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/slider-container.png);
+    background-image: url(../images/slider-container.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: 300px;
@@ -81,7 +81,7 @@
 }
 
 .slider-truck {
-    background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/slider-truck.png);
+    background-image: url(../images/slider-truck.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 700px;

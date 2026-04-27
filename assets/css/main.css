@@ -1392,7 +1392,7 @@
 }
 
 .project-section .bg-half {
-    background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/content-bg-4.jpg);
+    background-image: url(../images/content-bg-4.jpg);
 }
 
 .project-section .bg-half.white {
@@ -1478,7 +1478,7 @@
 }
 
 .content-features .bg-half {
-    background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/content-bg-2.jpg);
+    background-image: url(../images/content-bg-2.jpg);
     background-position: right center;
     width: 40%;
     height: 100%;
@@ -1753,7 +1753,7 @@
     08 CTA Section
 ====================================================*/
 .cta-wrapper {
-    background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/content-bg-3.jpg);
+    background-image: url(../images/content-bg-3.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1767,7 +1767,7 @@
 
 @media (min-width:993px) {
     .cta-wrapper .cta-men {
-        background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/delivery-men-2.png);
+        background-image: url(../images/delivery-men-2.png);
         background-repeat: no-repeat;
         background-position: right bottom;
         background-size: contain;
@@ -1963,7 +1963,7 @@
     10 Quote Section
 ====================================================*/
 .quote-section {
-    background-image: url(https://html.dynamiclayers.net/te/Indopoltransports/assets/img/content-bg-5.jpg);
+    background-image: url(../images/content-bg-5.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
