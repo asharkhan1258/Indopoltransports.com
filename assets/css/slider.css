@@ -139,6 +139,7 @@
     color: var(--heading-color);
     font-size: 56px;
     line-height: 60px;
+    width: 50%;
     font-weight: 700;
     margin-bottom: 20px;
 }
@@ -151,6 +152,7 @@
     font-family: var(--primary-font);
     font-size: 18px;
     line-height: 28px;
+    width: 70%;
     font-weight: 500;
     color: #555;
     margin-bottom: 20px;
@@ -299,6 +301,25 @@
     .main-slider div.slider-pagination > span {
         margin: 0 7px !important;
     }
+    
+.slider-caption.big {
+    font-family: var(--primary-font);
+    color: var(--heading-color);
+    font-size: 56px;
+    line-height: 60px;
+    width: 100%;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.slider-caption.small {
+    font-family: var(--primary-font);
+    font-size: 18px;
+    line-height: 28px;
+    width: 100%;
+    font-weight: 500;
+    color: #555;
+    margin-bottom: 20px;
+}
 
 }
 
